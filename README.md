@@ -21,7 +21,8 @@ How to use Sly ?
 (Lexer is the process of converting a sequence of Caracter into sequence of Tokens)
 
 2)Programming a parser .
-(A parser is a compiler or interpreter component that breaks data into smaller elements for easy translation into another language)
+(A parser is a compiler or interpreter component that breaks data into smaller elements for easy
+ translation into another language)
 
 
 ---More details of Creating your own Programmnig language will be updated... Stay Tuned...!!!
