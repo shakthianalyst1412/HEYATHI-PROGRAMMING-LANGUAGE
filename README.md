@@ -18,7 +18,7 @@ How to use Sly ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1) Program a lexer for a programming language .
-(Lexer is the process of converting a sequence of Caracter into sequence of Tokens)
+(Lexer is the process of converting a sequence of Character into sequence of Tokens)
 
 2)Programming a parser .
 (A parser is a compiler or interpreter component that breaks data into smaller elements for easy
