@@ -1,4 +1,4 @@
-# BIZZ-HEYATHI-PROGRAMMING-LANGUAGE
+# HEYATHI-PROGRAMMING-LANGUAGE
 A Programming language based on Python using SLY Library
 
 What is SLY ?
